@@ -1,3 +1,7 @@
+You need metamask wallet and yarn, ganache, truffle downloaded.
+truffle config --reset :- helps to compile the contracts and disply them
+This project creates NFT game with greate UI interface.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
